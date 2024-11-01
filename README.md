@@ -19,7 +19,7 @@ Don't forget to follow us on our social media accounts below 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/drmurataltun/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/drmurataltun/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/drmurataltun)
-[![Kaggle](https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://www.kaggle.com/drmurataltun)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/drmurataltun)
 
 
 ## 📌 Latest YouTube Videos
