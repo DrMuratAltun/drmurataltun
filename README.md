@@ -3,7 +3,7 @@
 
 Dr. Murat Altun is an expert in artificial intelligence (AI) based in Turkey. He works as a professional trainer and consultant, specializing in data analysis 📊, data mining 🛠️, machine learning 📚, AI 🤖, and Python 🐍. Dr. Altun has authored the book "Artificial Intelligence Applications" 📘, which serves as a handbook for secondary and high school teachers.
 
-He has also contributed to the "Opportunities Increasing Artificial Intelligence in Education (FEYZA) Project" 📈, initiated by the Turkish Ministry of National Education, aimed at leveraging AI technologies for educational transformation.
+Dr. Altun also contributed to the "Opportunities Increasing Artificial Intelligence in Education (FEYZA) Project" 📈, initiated by the Turkish Ministry of National Education, aimed at leveraging AI technologies for educational transformation.
 
 In addition to his writing and consulting work, Dr. Altun conducts professional training programs on AI-related topics. His 16-hour "Block-Based AI Training" course 🧩 is now in its 8th iteration, featuring updated content.
 
