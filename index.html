@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Murat Altun - Yapay Zekâ Uzmanı</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts - Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <!-- Font Awesome (ikonlar için) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <script>
+        // Tailwind özel yapılandırması
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        'brand-dark': '#1a202c',
+                        'brand-light': '#f7fafc',
+                        'brand-accent': '#2b6cb0',
+                        'brand-secondary': '#4a5568',
+                    },
+                    animation: {
+                        'fade-in-up': 'fadeInUp 0.8s ease-out forwards',
+                        'slide-in-left': 'slideInLeft 1s ease-out forwards',
+                    },
+                    keyframes: {
+                        fadeInUp: {
+                            '0%': { opacity: '0', transform: 'translateY(20px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        },
+                        slideInLeft: {
+                            '0%': { opacity: '0', transform: 'translateX(-100px)' },
+                            '100%': { opacity: '1', transform: 'translateX(0)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <style>
+        /* Kaydırma çubuğu için yumuşak bir geçiş */
+        html {
+            scroll-behavior: smooth;
+        }
+        /* Animasyon için bir sınıf */
+        .animated {
+            opacity: 0; /* Başlangıçta görünmez */
+        }
+    </style>
+</head>
+<body class="bg-brand-light text-brand-secondary font-sans leading-normal tracking-tight">
+
+    <!-- Header ve Navigasyon -->
+    <header class="bg-brand-dark shadow-md sticky top-0 z-50">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="text-2xl font-bold text-white">
+                Dr. Murat Altun
+            </div>
+            <div class="hidden md:flex space-x-6">
+                <a href="#home" class="text-gray-300 hover:text-white transition duration-300">Ana Sayfa</a>
+                <a href="#about" class="text-gray-300 hover:text-white transition duration-300">Hakkımda</a>
+                <a href="#education" class="text-gray-300 hover:text-white transition duration-300">Eğitimler</a>
+                <a href="#books" class="text-gray-300 hover:text-white transition duration-300">Kitaplar</a>
+                <a href="#projects" class="text-gray-300 hover:text-white transition duration-300">Projeler</a>
+                <a href="#contact" class="text-gray-300 hover:text-white transition duration-300">İletişim</a>
+            </div>
+            <div class="md:hidden">
+                <!-- Mobil menü butonu (gerekirse eklenebilir) -->
+                <button class="text-gray-300 focus:outline-none">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Ana Bölüm (Hero) -->
+    <section id="home" class="bg-brand-dark text-white pt-24 pb-32 md:pt-32 md:pb-40">
+        <div class="container mx-auto px-6 text-center">
+            <div class="max-w-4xl mx-auto">
+                <!-- Profil Resmi (Placeholder) -->
+                <img src="https://placehold.co/150x150/4a5568/f7fafc?text=MA" 
+                     alt="Dr. Murat Altun Profil Fotoğrafı"
+                     class="w-32 h-32 md:w-40 md:h-40 rounded-full mx-auto mb-6 border-4 border-brand-accent shadow-lg animated"
+                     style="animation-delay: 0.2s; animation-name: fadeInUp;">
+                
+                <h1 class="text-4xl md:text-6xl font-black mb-4 animated" style="animation-delay: 0.4s; animation-name: fadeInUp;">
+                    Dr. Murat Altun
+                </h1>
+                <p class="text-xl md:text-2xl font-light text-gray-300 mb-8 animated" style="animation-delay: 0.6s; animation-name: fadeInUp;">
+                    Yapay Zekâ, Makine Öğrenmesi ve Python Uzmanı
+                </p>
+                <a href="#about" 
+                   class="bg-brand-accent text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-blue-700 transition duration-300 transform hover:scale-105 animated"
+                   style="animation-delay: 0.8s; animation-name: fadeInUp;">
+                   Daha Fazla Bilgi
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hakkımda Bölümü -->
+    <section id="about" class="py-20 md:py-28">
+        <div class="container mx-auto px-6">
+            <div class="max-w-4xl mx-auto">
+                <h2 class="text-3xl md:text-4xl font-bold text-center text-brand-dark mb-12">
+                    Hakkımda
+                </h2>
+                <div class="bg-white p-8 md:p-12 rounded-lg shadow-xl animated" style="animation-name: slideInLeft;">
+                    <p class="text-lg mb-6">
+                        Dr. Murat Altun, Türkiye'de yapay zekâ alanında uzman bir eğitimci ve danışman olarak tanınmaktadır. 
+                        Yapay zekâ, veri analizi, veri madenciliği, makine öğrenmesi ve Python gibi konularda uzmanlaşmıştır.
+                    </p>
+                    <p class="text-lg">
+                        Türkiye'de yapay zekâ teknolojilerinin eğitimde ve diğer alanlarda uygulanmasına yönelik önemli çalışmalara imza atmıştır.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Eğitimler Bölümü -->
+    <section id="education" class="bg-gray-100 py-20 md:py-28">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-center text-brand-dark mb-16">
+                Verdiğim Eğitimler
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+                <!-- Eğitim Kartı 1 -->
+                <div class="bg-white p-8 rounded-lg shadow-lg text-center transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.2s;">
+                    <i class="fas fa-robot fa-3x text-brand-accent mb-4"></i>
+                    <h3 class="font-bold text-xl text-brand-dark mb-2">Yapay Zekâ ve Makine Öğrenmesi</h3>
+                    <p class="text-base">Kurumlar ve eğitimciler için temel ve ileri düzey yapay zekâ atölyeleri.</p>
+                </div>
+                <!-- Eğitim Kartı 2 -->
+                <div class="bg-white p-8 rounded-lg shadow-lg text-center transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.4s;">
+                    <i class="fab fa-python fa-3x text-brand-accent mb-4"></i>
+                    <h3 class="font-bold text-xl text-brand-dark mb-2">Python ile Veri Bilimi</h3>
+                    <p class="text-base">Pandas, NumPy ve Scikit-learn kütüphaneleri ile uygulamalı veri analizi.</p>
+                </div>
+                <!-- Eğitim Kartı 3 -->
+                <div class="bg-white p-8 rounded-lg shadow-lg text-center transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.6s;">
+                    <i class="fas fa-chalkboard-teacher fa-3x text-brand-accent mb-4"></i>
+                    <h3 class="font-bold text-xl text-brand-dark mb-2">Eğitimde Yapay Zekâ</h3>
+                    <p class="text-base">Öğretmenlere ve eğitim kurumlarına yönelik yapay zekâ entegrasyonu.</p>
+                </div>
+                <!-- Yeni Eklenen Eğitim Kartı -->
+                <div class="bg-white p-8 rounded-lg shadow-lg text-center transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.8s;">
+                    <i class="fas fa-brain fa-3x text-brand-accent mb-4"></i>
+                    <h3 class="font-bold text-xl text-brand-dark mb-2">Üretken Yapay Zekâ (GenAI)</h3>
+                    <p class="text-base">Prompt mühendisliği ve LLM'ler üzerine odaklanan atölye çalışmaları.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Kitaplar Bölümü -->
+    <section id="books" class="bg-brand-light py-20 md:py-28">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-center text-brand-dark mb-16">
+                Kitaplarım
+            </h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+                
+                <!-- Kitap Kartı 1 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.2s;">
+                    <img src="https://placehold.co/600x400/2b6cb0/f7fafc?text=Kitap+Kapağı" alt="Kitap Kapağı 1" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Yapay Zekâ Öğretmen El Kitabı</h3>
+                        <p class="text-brand-secondary text-sm mb-4">2023</p>
+                    </div>
+                </div>
+                
+                <!-- Kitap Kartı 2 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.4s;">
+                    <img src="https://placehold.co/600x400/4a5568/f7fafc?text=Kitap+Kapağı" alt="Kitap Kapağı 2" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Yapay Zekâ ve Makine Öğrenmesi</h3>
+                        <p class="text-brand-secondary text-sm mb-4">2022 (Mesleki Eğitim Ders Kitabı)</p>
+                    </div>
+                </div>
+                
+                <!-- Kitap Kartı 3 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.6s;">
+                    <img src="https://placehold.co/600x400/2b6cb0/f7fafc?text=Kitap+Kapağı" alt="Kitap Kapağı 3" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Herkes İçin Python Programlama Dili</h3>
+                        <p class="text-brand-secondary text-sm mb-4">2019</p>
+                    </div>
+                </div>
+
+                <!-- Kitap Kartı 4 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.8s;">
+                    <img src="https://placehold.co/600x400/4a5568/f7fafc?text=Kitap+Kapağı" alt="Kitap Kapağı 4" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Kodlama Eğitimi Temel Düzey</h3>
+                        <p class="text-brand-secondary text-sm mb-4">2020</p>
+                    </div>
+                </div>
+                
+                <!-- Kitap Kartı 5 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 1.0s;">
+                    <img src="https://placehold.co/600x400/2b6cb0/f7fafc?text=Kitap+Kapağı" alt="Kitap Kapağı 5" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Arduino ile Robotik Kodlama</h3>
+                        <p class="text-brand-secondary text-sm mb-4">2021</p>
+                    </div>
+                </div>
+                
+                <!-- Kitap Kartı 6 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 1.2s;">
+                    <img src="https://placehold.co/600x400/4a5568/f7fafc?text=Kitap+Kapağı" alt="Kitap Kapağı 6" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Kilim Kodluyorum</h3>
+                        <p class="text-brand-secondary text-sm mb-4">2021</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projeler Bölümü -->
+    <section id="projects" class="bg-gray-100 py-20 md:py-28">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-center text-brand-dark mb-16">
+                Projelerim
+            </h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+                <!-- Proje Kartı 1 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.2s;">
+                    <img src="https://placehold.co/600x400/2b6cb0/f7fafc?text=Proje+Görseli" alt="Proje 1" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Eğitimde Yapay Zekâ Platformu</h3>
+                        <p class="text-base">Öğrencilerin öğrenme stillerine uyum sağlayan akıllı bir eğitim yazılımı.</p>
+                    </div>
+                </div>
+                
+                <!-- Proje Kartı 2 -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.4s;">
+                    <img src="https://placehold.co/600x400/4a5568/f7fafc?text=Proje+Görseli" alt="Proje 2" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Ulusal Veri Madenciliği İnisiyatifi</h3>
+                        <p class="text-base">Eğitim verilerini analiz ederek politika önerileri geliştiren bir araştırma projesi.</p>
+                    </div>
+                </div>
+                
+                <!-- Yeni Eklenen Proje Kartı -->
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 animated" style="animation-name: fadeInUp; animation-delay: 0.6s;">
+                    <img src="https://placehold.co/600x400/2b6cb0/f7fafc?text=KISS+Projesi" alt="Proje 3" class="w-full h-56 object-cover">
+                    <div class="p-6">
+                        <h3 class="font-bold text-xl text-brand-dark mb-2">Kiss (YZ Kitap İnceleme Sistemi)</h3>
+                        <p class="text-base">Basımdan önce kitapları TTKB kriterlerine göre inceler. Detaylı rapor sunar.</p>
+                    </div>
+                </div>
+                
+                <!-- Diğer projeler buraya eklenebilir... -->
+
+            </div>
+        </div>
+    </section>
+
+    <!-- İletişim Bölümü -->
+    <section id="contact" class="py-20 md:py-28">
+        <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-center text-brand-dark mb-12">
+                İletişim
+            </h2>
+            <div class="max-w-lg mx-auto text-center">
+                <p class="text-lg mb-8">
+                    Benimle sosyal medya üzerinden veya e-posta yoluyla iletişime geçebilirsiniz.
+                </p>
+                <div class="flex justify-center space-x-8">
+                    <!-- LinkedIn -->
+                    <a href="https://www.linkedin.com/in/drmurataltun/" target="_blank" rel="noopener noreferrer" 
+                       class="text-brand-secondary hover:text-brand-accent transition duration-300"
+                       aria-label="LinkedIn Profilim">
+                        <i class="fab fa-linkedin fa-3x"></i>
+                    </a>
+                    <!-- Instagram -->
+                    <a href="https://www.instagram.com/drmurataltun/" target="_blank" rel="noopener noreferrer" 
+                       class="text-brand-secondary hover:text-brand-accent transition duration-300"
+                       aria-label="Instagram Profilim">
+                        <i class="fab fa-instagram fa-3x"></i>
+                    </a>
+                    <!-- E-posta -->
+                    <a href="mailto:emurataltun@gmail.com" 
+                       class="text-brand-secondary hover:text-brand-accent transition duration-300"
+                       aria-label="Bana E-posta Gönderin">
+                        <i class="fas fa-envelope fa-3x"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-brand-dark text-gray-400 py-10">
+        <div class="container mx-auto px-6 text-center">
+            <p>&copy; <span id="currentYear"></span> Dr. Murat Altun. Tüm hakları saklıdır.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Yılı otomatik güncelle
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+
+        // Animasyonları tetiklemek için Intersection Observer
+        document.addEventListener("DOMContentLoaded", () => {
+            const animatedElements = document.querySelectorAll('.animated');
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        // Görünen elemente animasyonunu uygula
+                        entry.target.style.animationPlayState = 'running';
+                        entry.target.style.opacity = '1';
+                        // Bir kez tetiklendikten sonra gözlemeyi bırak
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, {
+                threshold: 0.1 // %10'u göründüğünde tetikle
+            });
+
+            animatedElements.forEach(el => {
+                // Animasyonları duraklatılmış başlat
+                el.style.animationPlayState = 'paused';
+                observer.observe(el);
+            });
+        });
+    </script>
+
+</body>
+</html>
