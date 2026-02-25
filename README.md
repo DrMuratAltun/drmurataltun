@@ -1,13 +1,21 @@
 ## Hi there 👋
 # Dr. Murat Altun 🎓🤖
 
-Dr. Murat Altun is an expert in artificial intelligence (AI) based in Turkey. He works as a professional trainer and consultant, specializing in data analysis 📊, data mining 🛠️, machine learning 📚, AI 🤖, and Python 🐍. Dr. Altun has authored the book "Artificial Intelligence Applications" 📘, which serves as a handbook for secondary and high school teachers.
+Dr. Murat Altun is an expert in artificial intelligence (AI) based in Turkey. 
+He works as a professional trainer and consultant, specializing in data analysis 📊, 
+data mining 🛠️, 
+machine learning 📚, 
+AI 🤖, and Python 🐍. 
+Dr. Altun has authored the book "Artificial Intelligence Applications" 📘, 
+which serves as a handbook for secondary and high school teachers.
 
 Dr. Altun also contributed to the "Opportunities Increasing Artificial Intelligence in Education (FEYZA) Project" 📈, initiated by the Turkish Ministry of National Education, aimed at leveraging AI technologies for educational transformation.
 
 In addition to his writing and consulting work, Dr. Altun conducts professional training programs on AI-related topics. His 16-hour "Block-Based AI Training" course 🧩 is now in its 8th iteration, featuring updated content.
 
-Dr. Altun's expertise in AI extends to real-world projects 🌐. He has delivered a YouTube presentation titled "Real Projects with Artificial Learning" 📺, showcasing his work in this area. His research profile on ResearchGate 📑 further highlights his contributions to AI, which seeks to emulate human intelligence through artificial systems.
+Dr. Altun's expertise in AI extends to real-world projects 🌐. 
+He has delivered a YouTube presentation titled "Real Projects with Artificial Learning" 📺, ,
+showcasing his work in this area. His research profile on ResearchGate 📑 further highlights his contributions to AI, which seeks to emulate human intelligence through artificial systems.
 
 With his extensive knowledge, practical experience, and dedication to education, Dr. Murat Altun is making significant strides in advancing the understanding and application of artificial intelligence in Turkey and beyond 🌍.
 
