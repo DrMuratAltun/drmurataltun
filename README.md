@@ -1,46 +1,69 @@
-## Hi there 👋
-# Dr. Murat Altun 🎓🤖
+<h1 align="center">Dr. Murat Altun</h1>
 
-Dr. Murat Altun is an expert in artificial intelligence (AI) based in Turkey. 
-He works as a professional trainer and consultant, specializing in data analysis 📊, 
-data mining 🛠️, 
-machine learning 📚, 
-AI 🤖, and Python 🐍. 
-Dr. Altun has authored the book "Artificial Intelligence Applications" 📘, 
-which serves as a handbook for secondary and high school teachers.
+<p align="center">
+  <strong>AI Trainer & Consultant | Data Scientist | Author</strong>
+</p>
 
-Dr. Altun also contributed to the "Opportunities Increasing Artificial Intelligence in Education (FEYZA) Project" 📈, initiated by the Turkish Ministry of National Education, aimed at leveraging AI technologies for educational transformation.
+<p align="center">
+  <a href="https://www.youtube.com/@yapayzekaokulum"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/drmurataltun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/drmurataltun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.kaggle.com/drmurataltun"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://huggingface.co/drmurataltun"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
+</p>
 
-In addition to his writing and consulting work, Dr. Altun conducts professional training programs on AI-related topics. His 16-hour "Block-Based AI Training" course 🧩 is now in its 8th iteration, featuring updated content.
+---
 
-Dr. Altun's expertise in AI extends to real-world projects 🌐. 
-He has delivered a YouTube presentation titled "Real Projects with Artificial Learning" 📺, ,
-showcasing his work in this area. His research profile on ResearchGate 📑 further highlights his contributions to AI, which seeks to emulate human intelligence through artificial systems.
+### About Me
 
-With his extensive knowledge, practical experience, and dedication to education, Dr. Murat Altun is making significant strides in advancing the understanding and application of artificial intelligence in Turkey and beyond 🌍.
+AI expert based in Turkey, working as a professional trainer and consultant specializing in artificial intelligence, machine learning, data science, computer vision, and Python.
 
+- Author of **"Artificial Intelligence Applications"** handbook for secondary and high school teachers
+- Contributor to the **FEYZA Project** (Ministry of National Education) - leveraging AI for educational transformation
+- Delivered **16+ iterations** of Block-Based AI Training courses
+- Conducted workshops and bootcamps with **BTK Academy**, **Ecodation**, **Tech Istanbul**, and **ECS**
 
-Don't forget to follow us on our social media accounts below 👇
+---
 
-## Let's Connect!
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@yapayzekaokulum)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/drmurataltun/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/drmurataltun/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/drmurataltun)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/drmurataltun)
+### Work Areas
 
+![GenAI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs_&_Agents-6366F1?style=flat-square&logo=openai&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=flat-square&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0DB7ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📌 Latest YouTube Videos
-- [Using Generative AI tool (Turkish)]([https://youtube.com](https://www.youtube.com/playlist?list=PLBVaoRYzRl2yAHwmn0rGW8UX4OYp7kcgl)
-- [Applied Machine Learning Bootcamp with Python]([https://youtube.com](https://www.youtube.com/playlist?list=PLBVaoRYzRl2wobQuT4Ni4u_Lpwek0XraT)
+### Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## 🤖 Work Areas
-![GenAI](https://img.shields.io/badge/GenAI-blue?style=for-the-badge)
-![DataScience](https://img.shields.io/badge/DataScience-yellow?style=for-the-badge)
-![MachineLearning](https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge)
-![DeepLearning](https://img.shields.io/badge/DeepLearning-red?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-purple?style=for-the-badge)
+---
 
-## 📬 Contact Us
-[emurataltun@gmail.com](mailto:emurataltun@gmail.com)
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrMuratAltun&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrMuratAltun&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+---
+
+### Latest YouTube Playlists
+
+- [Using Generative AI Tools (Turkish)](https://www.youtube.com/playlist?list=PLBVaoRYzRl2yAHwmn0rGW8UX4OYp7kcgl)
+- [Applied Machine Learning Bootcamp with Python](https://www.youtube.com/playlist?list=PLBVaoRYzRl2wobQuT4Ni4u_Lpwek0XraT)
+
+---
+
+<p align="center">
+  <a href="mailto:emurataltun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
