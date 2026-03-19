@@ -18,10 +18,30 @@
 
 AI expert based in Turkey, working as a professional trainer and consultant specializing in artificial intelligence, machine learning, data science, computer vision, and Python.
 
-- Author of **"Artificial Intelligence Applications"** handbook for secondary and high school teachers
-- Contributor to the **FEYZA Project** (Ministry of National Education) - leveraging AI for educational transformation
-- Delivered **16+ iterations** of Block-Based AI Training courses
-- Conducted workshops and bootcamps with **BTK Academy**, **Ecodation**, **Tech Istanbul**, and **ECS**
+---
+
+### Books
+
+| Year | Title |
+|------|-------|
+| 2023 | Yapay Zeka Ogretmen El Kitabi |
+| 2022 | Yapay Zeka ve Makine Ogrenmesi - Mesleki Egitim Ders Kitabi |
+| 2021 | Arduino ile Robotik Kodlama |
+| 2021 | Kilim Kodluyorum |
+| 2020 | Kodlama Egitimi Temel Duzey |
+| 2019 | Herkes Icin Python Programlama Dili |
+
+---
+
+### Projects & Roles
+
+- **FEYZA Project** - Ministry of National Education initiative leveraging AI for educational transformation
+- **TUBITAK 4006** - Science fair project director
+- **TUBITAK 4007** - Workshop leader
+- **Deneyap Workshops** - Instructor (Software, Robotics & AI)
+- **BTK Academy** - AI & Data Science workshop trainer
+- **Ecodation Academy** - AI Bootcamp trainer
+- **Tech Istanbul** - Deep Learning & Computer Vision trainer
 
 ---
 
