@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:6366F1,100:EE4C2C&height=200&section=header&text=Dr.+Murat+Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI+Trainer+%26+Consultant+|+Data+Scientist+|+Author&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:6366F1,100:EE4C2C&height=200&section=header&text=Dr.%20Murat%20Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Trainer%20%26%20Consultant%20%7C%20Data%20Scientist%20%7C%20Author&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Founder+of+Yapay+Zeka+Okulum+%F0%9F%8E%93;Building+AI-powered+SaaS+Products+%F0%9F%9A%80;25%2B+Years+of+Software+Engineering+%F0%9F%92%BB;Training+the+Next+Generation+of+AI+Engineers+%F0%9F%A4%96" alt="Typing SVG" /></a>
