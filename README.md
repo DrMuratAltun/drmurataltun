@@ -24,30 +24,57 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 ### Projects & Academic Roles
 
-- **Yapay Zeka Okulum** - Founder & Lead Instructor
-- **ScholarAI** - Founder & Developer of the academic research assistant SaaS platform
-- **Antalya Belek University** - Guest Lecturer (YBS403 Decision Support Systems)
-- **FEYZA Project** - Ministry of National Education initiative leveraging AI for educational transformation
-- **TUBITAK 4006 & 4007** - Project director and workshop leader
-- **Deneyap Workshops & BTK Academy** - Instructor (Software, Robotics & AI)
-- **Ecodation Academy & Tech Istanbul** - AI Bootcamp, Deep Learning & Computer Vision Trainer
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Founder & Developer</h4>
+      <ul>
+        <li><strong>Yapay Zeka Okulum</strong> — Founder & Lead Instructor</li>
+        <li><strong>ScholarAI</strong> — Academic research assistant SaaS platform</li>
+      </ul>
+      <h4>Academic</h4>
+      <ul>
+        <li><strong>Antalya Belek University</strong> — Guest Lecturer (YBS403 Decision Support Systems)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>National Projects</h4>
+      <ul>
+        <li><strong>FEYZA Project</strong> — MEB initiative leveraging AI for educational transformation</li>
+        <li><strong>TUBITAK 4006 & 4007</strong> — Project director & workshop leader</li>
+      </ul>
+      <h4>Training & Workshops</h4>
+      <ul>
+        <li><strong>Deneyap Workshops</strong> — Instructor (Software, Robotics & AI)</li>
+        <li><strong>BTK Academy</strong> — AI & Data Science workshop trainer</li>
+        <li><strong>Ecodation Academy & Tech Istanbul</strong> — AI Bootcamp, Deep Learning & CV Trainer</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Books
 
+<div align="center">
+
 | Year | Title |
-|------|-------|
-| 2023 | Yapay Zekâ Öğretmen El Kitabı |
-| 2022 | Yapay Zekâ ve Makine Öğrenmesi (Mesleki Eğitim Ders Kitabı) |
-| 2021 | Arduino ile Robotik Kodlama |
-| 2021 | Kilim Kodluyorum |
-| 2020 | Kodlama Eğitimi Temel Düzey |
-| 2019 | Herkes İçin Python Programlama Dili |
+|:----:|-------|
+| **2023** | Yapay Zeka Ogretmen El Kitabi |
+| **2022** | Yapay Zeka ve Makine Ogrenmesi *(Mesleki Egitim Ders Kitabi)* |
+| **2021** | Arduino ile Robotik Kodlama |
+| **2021** | Kilim Kodluyorum |
+| **2020** | Kodlama Egitimi Temel Duzey |
+| **2019** | Herkes Icin Python Programlama Dili |
+
+</div>
 
 ---
 
 ### Work Areas & Tech Stack
+
+<div align="center">
 
 ![GenAI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
 ![LLM](https://img.shields.io/badge/Local_LLMs_&_Agents-6366F1?style=flat-square&logo=openai&logoColor=white)
@@ -63,6 +90,8 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
 
