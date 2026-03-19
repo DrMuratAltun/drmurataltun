@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:6366F1,100:EE4C2C&height=200&section=header&text=Dr.%20Murat%20Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Trainer%20%26%20Consultant%20%7C%20Data%20Scientist%20%7C%20Author&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Dr.%20Murat%20Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Trainer%20%7C%20Data%20Scientist%20%7C%20Author&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Founder+of+Yapay+Zeka+Okulum+%F0%9F%8E%93;Building+AI-powered+SaaS+Products+%F0%9F%9A%80;25%2B+Years+of+Software+Engineering+%F0%9F%92%BB;Training+the+Next+Generation+of+AI+Engineers+%F0%9F%A4%96" alt="Typing SVG" /></a>
@@ -18,13 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=DrMuratAltun&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :technologist: &nbsp;About
 
 Dr. Murat Altun is an AI expert, professional trainer, and consultant based in Turkey with over 25 years of software engineering experience. He specializes in artificial intelligence, machine learning, data science, computer vision, and Python. He is the founder of **Yapay Zeka Okulum** and actively develops SaaS solutions for academic research.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :rocket: &nbsp;Projects & Academic Roles
 
@@ -57,7 +57,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :books: &nbsp;Books
 
@@ -74,7 +74,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :wrench: &nbsp;Work Areas
 
@@ -103,7 +103,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :bar_chart: &nbsp;GitHub Stats
 
@@ -124,7 +124,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrMuratAltun&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" width="95%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :clapper: &nbsp;Latest YouTube Playlists
 
@@ -138,7 +138,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:6366F1,100:EE4C2C&height=120&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
 
 <p align="center">
   <a href="mailto:emurataltun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
