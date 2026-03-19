@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:6366F1,100:EE4C2C&height=200&section=header&text=Dr.%20Murat%20Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Trainer%20%26%20Consultant%20%7C%20Data%20Scientist%20%7C%20Author&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:6366F1,100:EE4C2C&height=200&section=header&text=Dr.+Murat+Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI+Trainer+%26+Consultant+|+Data+Scientist+|+Author&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Founder+of+Yapay+Zeka+Okulum;Building+AI-powered+SaaS+Products;25%2B+Years+of+Software+Engineering;Training+the+Next+Generation+of+AI+Engineers" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Founder+of+Yapay+Zeka+Okulum+%F0%9F%8E%93;Building+AI-powered+SaaS+Products+%F0%9F%9A%80;25%2B+Years+of+Software+Engineering+%F0%9F%92%BB;Training+the+Next+Generation+of+AI+Engineers+%F0%9F%A4%96" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -20,34 +20,34 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28" /> &nbsp;About
+## :technologist: &nbsp;About
 
 Dr. Murat Altun is an AI expert, professional trainer, and consultant based in Turkey with over 25 years of software engineering experience. He specializes in artificial intelligence, machine learning, data science, computer vision, and Python. He is the founder of **Yapay Zeka Okulum** and actively develops SaaS solutions for academic research.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28" /> &nbsp;Projects & Academic Roles
+## :rocket: &nbsp;Projects & Academic Roles
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20" /> Founder & Developer</h4>
+      <h4>:bulb: Founder & Developer</h4>
       <ul>
         <li><strong>Yapay Zeka Okulum</strong> — Founder & Lead Instructor</li>
         <li><strong>ScholarAI</strong> — Academic research assistant SaaS platform</li>
       </ul>
-      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> Academic</h4>
+      <h4>:mortar_board: Academic</h4>
       <ul>
         <li><strong>Antalya Belek University</strong> — Guest Lecturer (YBS403 Decision Support Systems)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Classical%20Building.png" width="20" /> National Projects</h4>
+      <h4>:classical_building: National Projects</h4>
       <ul>
         <li><strong>FEYZA Project</strong> — MEB initiative leveraging AI for educational transformation</li>
         <li><strong>TUBITAK 4006 & 4007</strong> — Project director & workshop leader</li>
       </ul>
-      <h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20" /> Training & Workshops</h4>
+      <h4>:dart: Training & Workshops</h4>
       <ul>
         <li><strong>Deneyap Workshops</strong> — Instructor (Software, Robotics & AI)</li>
         <li><strong>BTK Academy</strong> — AI & Data Science workshop trainer</li>
@@ -59,24 +59,24 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> &nbsp;Books
+## :books: &nbsp;Books
 
 <div align="center">
 
 | &nbsp; | Year | Title |
 |:------:|:----:|-------|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" width="18" /> | **2023** | **Yapay Zeka Ogretmen El Kitabi** |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Book.png" width="18" /> | **2022** | **Yapay Zeka ve Makine Ogrenmesi** *(Mesleki Egitim Ders Kitabi)* |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Orange%20Book.png" width="18" /> | **2021** | **Arduino ile Robotik Kodlama** |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" width="18" /> | **2021** | **Kilim Kodluyorum** |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ledger.png" width="18" /> | **2020** | **Kodlama Egitimi Temel Duzey** |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="18" /> | **2019** | **Herkes Icin Python Programlama Dili** |
+| :blue_book: | **2023** | **Yapay Zeka Ogretmen El Kitabi** |
+| :green_book: | **2022** | **Yapay Zeka ve Makine Ogrenmesi** *(Mesleki Egitim Ders Kitabi)* |
+| :orange_book: | **2021** | **Arduino ile Robotik Kodlama** |
+| :notebook: | **2021** | **Kilim Kodluyorum** |
+| :ledger: | **2020** | **Kodlama Egitimi Temel Duzey** |
+| :book: | **2019** | **Herkes Icin Python Programlama Dili** |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Work Areas
+## :wrench: &nbsp;Work Areas
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="28" /> &nbsp;Tech Stack
+## :desktop_computer: &nbsp;Tech Stack
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## :bar_chart: &nbsp;GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrMuratAltun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
@@ -126,7 +126,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:6366F1&height=2" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="28" /> &nbsp;Latest YouTube Playlists
+## :clapper: &nbsp;Latest YouTube Playlists
 
 <div align="center">
 
