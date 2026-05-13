@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Dr.%20Murat%20Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Trainer%20%7C%20Data%20Scientist%20%7C%20Author&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Dr.%20Murat%20Altun&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Specialist%20and%20Instructor&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Founder+of+Yapay+Zeka+Okulum+%F0%9F%8E%93;Building+AI-powered+SaaS+Products" alt="Typing SVG" /></a>
@@ -22,7 +22,7 @@
 
 ## :technologist: &nbsp;About
 
-Dr. Murat Altun is an AI expert, professional trainer, and consultant based in Turkey with over 25 years of software engineering experience. He specializes in artificial intelligence, machine learning, data science, computer vision, and Python. He is the founder of **Yapay Zeka Okulum** and actively develops SaaS solutions for academic research.
+Dr. Murat Altun is an AI Specialist and Instructor based in Turkey with over 21 years of experience in computer science and education. He specializes in artificial intelligence, machine learning, data science, computer vision, and Python. He is the founder of **Yapay Zeka Okulum** and actively develops SaaS solutions for academic research.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -68,7 +68,7 @@ Dr. Murat Altun is an AI expert, professional trainer, and consultant based in T
 | :blue_book: | **2023** | **Yapay Zeka Ogretmen El Kitabi** |
 | :green_book: | **2022** | **Yapay Zeka ve Makine Ogrenmesi** *(Mesleki Egitim Ders Kitabi)* |
 | :orange_book: | **2021** | **Arduino ile Robotik Kodlama** |
-| :notebook: | **2021** | **Kilim Kodluyorum** |
+| :notebook: | **2021** | **Kilim Kodluyorum** *(Yazarlar: Berrin Tercan, Dr. Murat Altun \| Çizer: Özgül Önalan)* |
 | :ledger: | **2020** | **Kodlama Egitimi Temel Duzey** |
 | :book: | **2019** | **Herkes Icin Python Programlama Dili** |
 
